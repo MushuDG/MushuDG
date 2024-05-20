@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working as Computer Network Specialist. I am interested in the open-source world and its philosophy, telecommunications techniques, cyber security and new technologies in general. I have the chance to develop my skills at EPFL in the PL-MTI unit as an ES telematics technician.<br><br>My objective through my job is to constantly keep myself updated about the IT world. This to learn and develop new IT skills.<br><br>✔Rigorous ✔Collaborative ✔Curious ✔Fast learner
+I'm working as Computer Network Specialist. I am interested in the open-source world and its philosophy, telecommunications techniques, cyber security and new technologies in general. I had the chance to develop my skills at EPFL in the PL-MTI unit as an ES telematics technician.<br><br>My objective through my job is to constantly keep myself updated about the IT world. This to learn and develop new IT skills.<br><br>✔Rigorous ✔Collaborative ✔Curious ✔Fast learner
 
 
 # 💻 Tech Stack:
