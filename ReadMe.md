@@ -1,10 +1,26 @@
-# 💫 About Me:
-I'm working as Computer Network Specialist. I am interested in the open-source world and its philosophy, telecommunications techniques, cyber security and new technologies in general. I had the chance to develop my skills at EPFL in the PL-MTI unit as an ES telematics technician.<br><br>My objective through my job is to constantly keep myself updated about the IT world. This to learn and develop new IT skills.<br><br>✔Rigorous ✔Collaborative ✔Curious ✔Fast learner
 
+# 💻 About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MushuDG&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Hi there! I'm Mushu, a passionate **IT Network Specialist** with an **Advanced Federal Diploma of Higher Education in Telecommunications**. I work at the intersection of **open-source software**, **telecommunications techniques**, **cybersecurity**, and **emerging technologies**. I currently working at the **EPFL** (Swiss Federal Institute of Technology Lausanne) within the **PL-MTI unit**, where I focus on **smart building monitoring**, **IoT systems**, and **environmental data processing**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔍 My Focus
+I’m committed to staying updated with the ever-evolving IT landscape, constantly learning and applying new technologies to enhance my professional skill set. My objective is to contribute to meaningful projects while advancing my expertise in the field.
+
+## 🛠 Skills & Strengths
+
+- **Network Design & Optimization**
+- **Telecommunications Systems**
+- **Open-Source Contributions**
+- **Cybersecurity Implementation**
+- **Automation & Scripting**
+
+## 🤝 Professional Values
+
+- ✔️ **Rigorous** in execution
+- ✔️ **Collaborative** in teamwork
+- ✔️ **Curious** to explore new technologies
+- ✔️ **Quick Learner** in adopting new practices
+
+Feel free to explore my projects and connect for collaboration or knowledge exchange. Let’s work together to drive innovation forward!
+
+![MushuDG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MushuDG&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
