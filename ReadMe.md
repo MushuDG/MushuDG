@@ -23,6 +23,4 @@ I’m committed to staying updated with the ever-evolving IT landscape, constant
 
 Feel free to explore my projects and connect for collaboration or knowledge exchange. Let’s work together to drive innovation forward!
 
-![MushuDG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MushuDG&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 ![Snake gif](https://github.com/MushuDG/MushuDG/blob/output/github-snake-dark.svg)
